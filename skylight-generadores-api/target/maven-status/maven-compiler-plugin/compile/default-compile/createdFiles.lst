@@ -1,0 +1,4 @@
+com/skylight/generadores/controller/EquipoController.class
+com/skylight/generadores/SkylightGeneradoresApiApplication.class
+com/skylight/generadores/model/Equipo.class
+com/skylight/generadores/service/EquipoService.class
